@@ -1,0 +1,64 @@
+.WORK-WITH-ME_row1 {
+    display: flex;
+    background-color: rgb(76, 157, 249);
+    color: rgb(255, 255, 255);
+    padding: 0 100px 0 100px;
+    font: xx-large;
+    gap: 100px;
+    justify-content: space-between;
+}
+
+body {
+    background-color: rgb(114, 157, 226);
+    background-image: url();
+}
+
+.image {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 50px;
+    border-radius: 0%;
+}
+
+.work-with-me_row2 {
+
+    background-color: rgb(114, 157, 226);
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+    margin: 0px;
+    padding: 2rem;
+}
+
+.section {
+    background-color: rgb(114, 157, 226);
+    color: white;
+    font-style: bold;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+    margin: 0px;
+}
+.section3 {
+    background-color: rgb(114, 157, 226);
+    color: white;
+    font-style: bold;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+    margin: 0px;
+}
+
+
+.section2 {
+    background-color: rgb(114, 157, 226);
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: xx-large;
+    text-align: center;
+    font: bold;
+    margin: 0px;
+}
+
